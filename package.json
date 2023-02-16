@@ -1,5 +1,5 @@
 {
-  "name": "Frases",
+  "name": "starwarsjs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JordanDiaz01/Frases.git"
+    "url": "git+https://github.com/JordanDiaz01/StarWarsCharacter-JS.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JordanDiaz01/Frases/issues"
+    "url": "https://github.com/JordanDiaz01/StarWarsCharacter-JS/issues"
   },
-  "homepage": "https://github.com/JordanDiaz01/Frases#readme"
+  "homepage": "https://github.com/JordanDiaz01/StarWarsCharacter-JS#readme"
 }
